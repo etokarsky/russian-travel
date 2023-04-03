@@ -4,6 +4,9 @@
 /* Центрированный блок */
 @import url("../blocks/centered-block/centered-block.css");
 
+/* Повторяющийся отступ снизу */
+@import url("../blocks/bottom-margin/bottom-margin.css");
+
 /* Ссылка, элементы и модификаторы ссылки */
 @import url("../blocks/link/link.css");
 
@@ -27,7 +30,6 @@
 @import url("../blocks/lead/__caption/lead__caption.css");
 @import url("../blocks/intro/intro.css");
 @import url("../blocks/intro/__title/intro__title.css");
-@import url("../blocks/intro/__content/intro__content.css");
 @import url("../blocks/intro/__text/intro__text.css");
 @import url("../blocks/intro/__list/intro__list.css");
 @import url("../blocks/intro/__list-item/intro__list-item.css");
@@ -52,10 +54,3 @@
 @import url("../blocks/footer/__links/footer__links.css");
 @import url("../blocks/footer/__link/footer__link.css");
 @import url("../blocks/footer/__copyright/footer__copyright.css");
-
-/* Секции как элементы контента */
-@import url("../blocks/content/__lead/content__lead.css");
-@import url("../blocks/content/__intro/content__intro.css");
-@import url("../blocks/content/__photo-grid/content__photo-grid.css");
-@import url("../blocks/content/__places/content__places.css");
-@import url("../blocks/content/__cover/content__cover.css");
